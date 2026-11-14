@@ -2,7 +2,6 @@
   <img src="Coding Sci-Fi GIF by Magnolia Pictures.gif" alt="Imad - Software Developer" width="100%" />
 </p>
 
-# Hey there, I'm Imad! 👋
 
 # Hey there, I'm Imad! 👋
 
