@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Coding Sci-Fi GIF by Magnolia Pictures.gif" alt="Imad - Software Developer" width="100%" />
+  <img src="Matrix Binary Rain Portrait Animation.gif" alt="Imad - Software Developer" width="100%" />
 </p>
 
 
