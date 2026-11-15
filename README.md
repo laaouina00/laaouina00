@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Matrix Binary Rain Portrait Animation.gif" alt="Imad - Software Developer" width="100%" />
+  <img src="Cyberpunk Glitch Matrix Banner Animation.gif" alt="Imad - Software Developer" width="100%" />
 </p>
 
 
